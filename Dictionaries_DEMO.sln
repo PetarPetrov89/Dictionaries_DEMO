@@ -3,11 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO", "Dictionaries_DEMO\Dictionaries_DEMO.csproj", "{BBE2CA84-22A7-4F3E-BB1E-DBB1643DAE4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries_DEMO", "Dictionaries_DEMO\Dictionaries_DEMO.csproj", "{BBE2CA84-22A7-4F3E-BB1E-DBB1643DAE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_2", "Dictionaries_DEMO_2\Dictionaries_DEMO_2.csproj", "{B2F6AD2B-32AB-456A-A3B3-5EDCC48003FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries_DEMO_2", "Dictionaries_DEMO_2\Dictionaries_DEMO_2.csproj", "{B2F6AD2B-32AB-456A-A3B3-5EDCC48003FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_3", "Dictionaries_DEMO_3\Dictionaries_DEMO_3.csproj", "{E0239092-1F39-40DF-8576-AEA94BAE7718}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionaries_DEMO_3", "Dictionaries_DEMO_3\Dictionaries_DEMO_3.csproj", "{E0239092-1F39-40DF-8576-AEA94BAE7718}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_4", "Dictionaries_DEMO_4\Dictionaries_DEMO_4.csproj", "{6458CBEC-69D6-4E3E-A350-1F465975ABF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_5", "Dictionaries_DEMO_5\Dictionaries_DEMO_5.csproj", "{2B969F8F-ACCA-4092-A1B9-E8613AB4511F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_Students", "Dictionaries_DEMO_Students\Dictionaries_DEMO_Students.csproj", "{C6E1657A-71A9-47ED-B758-80AF8C014F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_Sorted", "Dictionaries_DEMO_Sorted\Dictionaries_DEMO_Sorted.csproj", "{74590A53-2888-4543-931A-BE5F56CE2950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_Hasg", "Dictionaries_DEMO_Hasg\Dictionaries_DEMO_Hasg.csproj", "{D96C4466-7D99-43CF-8BF1-9F80F457EB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries_DEMO_Phones", "Dictionaries_DEMO_Phones\Dictionaries_DEMO_Phones.csproj", "{66AD40DD-7C15-4E40-9353-B059DD828EAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +39,30 @@ Global
 		{E0239092-1F39-40DF-8576-AEA94BAE7718}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0239092-1F39-40DF-8576-AEA94BAE7718}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0239092-1F39-40DF-8576-AEA94BAE7718}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6458CBEC-69D6-4E3E-A350-1F465975ABF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6458CBEC-69D6-4E3E-A350-1F465975ABF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6458CBEC-69D6-4E3E-A350-1F465975ABF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6458CBEC-69D6-4E3E-A350-1F465975ABF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B969F8F-ACCA-4092-A1B9-E8613AB4511F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B969F8F-ACCA-4092-A1B9-E8613AB4511F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B969F8F-ACCA-4092-A1B9-E8613AB4511F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B969F8F-ACCA-4092-A1B9-E8613AB4511F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E1657A-71A9-47ED-B758-80AF8C014F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E1657A-71A9-47ED-B758-80AF8C014F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E1657A-71A9-47ED-B758-80AF8C014F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E1657A-71A9-47ED-B758-80AF8C014F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74590A53-2888-4543-931A-BE5F56CE2950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74590A53-2888-4543-931A-BE5F56CE2950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74590A53-2888-4543-931A-BE5F56CE2950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74590A53-2888-4543-931A-BE5F56CE2950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D96C4466-7D99-43CF-8BF1-9F80F457EB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D96C4466-7D99-43CF-8BF1-9F80F457EB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D96C4466-7D99-43CF-8BF1-9F80F457EB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D96C4466-7D99-43CF-8BF1-9F80F457EB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66AD40DD-7C15-4E40-9353-B059DD828EAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AD40DD-7C15-4E40-9353-B059DD828EAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AD40DD-7C15-4E40-9353-B059DD828EAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AD40DD-7C15-4E40-9353-B059DD828EAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
